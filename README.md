@@ -1,5 +1,4 @@
 # adjust-volume-with-python
-adjust volume just with your finger
 kamu butuh
 opencv-python == 4.5.2.52
 numpy == 1.20.3
